@@ -10,7 +10,7 @@ include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := CallRecorder
+LOCAL_MODULE := KdeConnect
 LOCAL_SRC_FILES := org.kde.kdeconnect_tp_11700.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_PRIVILEGED_MODULE := true
